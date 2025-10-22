@@ -1,4 +1,3 @@
-salam
-vision
+salam necesen ayxan
 java
-exception
+vision
