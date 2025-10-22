@@ -6,7 +6,7 @@ public class Main {
 
         File read = new File("read.txt");
         File write = new File("write.txt");
-        //salam
+        //hello
 
 int lineCount=0;
 int wordCount=0;
